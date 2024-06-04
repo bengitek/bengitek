@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on manual and automated software testing, writing scripts
 - 📫 How to reach me bengitek@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My name means Immortal :) 
+- ⚡ Fun fact: 
 
 <!---
 bengitek/bengitek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
